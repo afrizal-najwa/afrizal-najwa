@@ -5,7 +5,7 @@
 
 -👯 I’m looking to collaborate on projects where I can both contribute and learn, especially those that involve Laravel, API integration, or enhancing user experience. I love working with others who share a passion for coding and creative problem-solving.
 
--📫 How to reach me: email: najwaafrizal@example.com—I’m always open to connecting and learning from others!
+-📫 How to reach me: email: najwaafrizal@gmail.com—I’m always open to connecting and learning from others!
 
 -😄 Pronouns: He/Him
 
