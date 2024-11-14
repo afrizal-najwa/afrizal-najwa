@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on building a scalable web application using Laravel to streamline data management for non-profits. It’s been a great learning experience, and I’m enjoying the process of tackling new challenges as they come up.
+-🔭 I’m currently working on building a scalable web application using Laravel to streamline data management for non-profits. It’s been a great learning experience, and I’m enjoying the process of tackling new challenges as they come up.
   
 -🌱 I’m currently learning more about optimizing Laravel applications and diving deeper into advanced Eloquent relationships and API development. There's always something new to discover, and I’m constantly amazed at how versatile Laravel can be.
 
