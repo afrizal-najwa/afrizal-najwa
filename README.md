@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B2c3c5dndqZ2J6cjh4ZnRoYjRrNm9pMm5oM3FzYjZscWhkMzFtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Afrizal Najwa Syauqi</h1>
 <h3 align="center">🎓 Master’s in Information Systems | 🤖 AI & Machine Learning Enthusiast | 🖥️ Web Developer</h3>
 
@@ -22,7 +18,7 @@
 
 ---
 
-### 👯 Collaboration Interests  
+### Collaboration Interests  
 - 📡 AI research (predictive analytics, SHM, recommender systems).  
 - 🏭 Practical AI applications in supply chain, finance, and manufacturing.  
 - 🌐 Web projects that integrate **Laravel + AI**.  
