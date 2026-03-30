@@ -5,15 +5,15 @@
 ---
 
 ### Research & Projects
-- **Decentralized Supply Chain Optimization:** Developing FMARL architectures to optimize multi-node logistics networks while maintaining data privacy. Based on [arXiv:2108.08435].
+- **Decentralized Supply Chain Optimization:** Developing FMARL architectures to optimize multi-node logistics networks while maintaining data privacy.
 - **FMARL Environment Design:** Engineering custom simulation environments for multi-agent coordination using PettingZoo and OpenAI Gym standards.
-- **Quantitative Algorithmic Systems:** Implementing deep learning architectures for time-series forecasting and anomaly detection in financial markets [arXiv:2202.07125].
+- **Quantitative Algorithmic Systems:** Implementing deep learning architectures for time-series forecasting and anomaly detection in financial markets.
 
 ---
 
 ### Core Expertise
 - **Multi-Agent Systems:** Cooperative/Competitive equilibrium, MADDPG, and Mean Field RL.
-- **Federated Learning:** Privacy-preserving AI, FedAvg, and asynchronous aggregation [arXiv:1602.05629].
+- **Federated Learning:** Privacy-preserving AI, FedAvg, and asynchronous aggregation.
 - **High-Performance Engineering:** Scalable RAG architectures, Vector Database optimization (Pinecone/Weaviate), and Tool-augmented LLMs.
 
 ---
@@ -47,10 +47,15 @@
 
 ---
 
-### GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrizal-najwa&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afrizal-najwa&theme=tokyonight)
+### 📊 GitHub Statistics
 
----
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=afrizal-najwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrizal-najwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=afrizal-najwa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
 
 **"Bridging advanced AI research with scalable industrial infrastructure."**
