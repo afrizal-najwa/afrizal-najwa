@@ -1,67 +1,56 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Afrizal Najwa Syauqi</h1>
-<h3 align="center">🎓 Master’s in Information Systems | 🤖 AI & Machine Learning Enthusiast | 🖥️ Web Developer</h3>
+# Afrizal Najwa Syauqi
+
+**M.Sc. Candidate in Information Systems | AI Research & Engineering** Focusing on **Federated Multi-Agent Reinforcement Learning (FMARL)** for decentralized system optimization.
 
 ---
 
-### 🔭 Current Projects  
-- 🚀 **#100DaysOfAI** challenge (Predictive Analytics, Recommender Systems, Federated Learning, Reinforcement Learning).  
-- 🖥️ Scalable **Laravel Web App** for non-profits (data management & reporting).  
-- 📊 AI-powered dashboards with **Python (Pandas, Plotly, Streamlit)**.  
+### Research & Projects
+- **Decentralized Supply Chain Optimization:** Developing FMARL architectures to optimize multi-node logistics networks while maintaining data privacy. Based on [arXiv:2108.08435].
+- **FMARL Environment Design:** Engineering custom simulation environments for multi-agent coordination using PettingZoo and OpenAI Gym standards.
+- **Quantitative Algorithmic Systems:** Implementing deep learning architectures for time-series forecasting and anomaly detection in financial markets [arXiv:2202.07125].
 
 ---
 
-### 🌱 Currently Learning  
-- Advanced **Machine Learning & Reinforcement Learning**.  
-- **Federated Learning (Flower)** with privacy-preserving AI.  
-- **Laravel API Optimization & Integration**.  
+### Core Expertise
+- **Multi-Agent Systems:** Cooperative/Competitive equilibrium, MADDPG, and Mean Field RL.
+- **Federated Learning:** Privacy-preserving AI, FedAvg, and asynchronous aggregation [arXiv:1602.05629].
+- **High-Performance Engineering:** Scalable RAG architectures, Vector Database optimization (Pinecone/Weaviate), and Tool-augmented LLMs.
 
 ---
 
-### Collaboration Interests  
-- 📡 AI research (predictive analytics, SHM, recommender systems).  
-- 🏭 Practical AI applications in supply chain, finance, and manufacturing.  
-- 🌐 Web projects that integrate **Laravel + AI**.  
+### Technical Stack
+
+**Languages & Core Frameworks**
+- Python (PyTorch, TensorFlow, Scikit-learn)
+- Ray / RLlib (Distributed Reinforcement Learning)
+- Flower (Federated Learning Framework)
+- FastAPI (High-performance API design)
+
+**Data & Infrastructure**
+- Vector Databases: Pinecone, Weaviate
+- SQL: PostgreSQL, MySQL
+- DevOps: Docker, Kubernetes (Scaling AI workloads)
 
 ---
 
-### 📫 How to reach me  
-- 📧 Email: **najwaafrizal@gmail.com**  
-- 💼 LinkedIn: [Afrizal Najwa Syauqi](https://www.linkedin.com/in/afrizal-najwa/)  
+### Research Interests for Collaboration
+- Distributed AI and Privacy-Preserving Machine Learning.
+- Industrial applications of Reinforcement Learning (Logistics, Manufacturing, Finance).
+- Scalable AI infrastructure for decentralized networks.
 
 ---
 
-### ⚡ Tech Stack  
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
+### Academic & Professional Contact
+- **LinkedIn:** [Afrizal Najwa Syauqi](https://www.linkedin.com/in/afrizal-najwa/)
+- **Email:** najwaafrizal@gmail.com
+- **Ph.D. Roadmap:** Currently preparing for doctoral research (Estimated 2027 start).
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrizal-najwa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrizal-najwa&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
+### GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrizal-najwa&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afrizal-najwa&theme=tokyonight)
 
 ---
 
-### ⚡ Fun fact  
-☕ Coffee fuels my code | 🎬 Movies spark my creativity | 🧠 Passionate about turning data into *AI-driven solutions*.  
-
----
-
-<p align="center">⭐ “Data is the new oil, but AI is the engine that drives value.” ⭐</p>
+**"Bridging advanced AI research with scalable industrial infrastructure."**
